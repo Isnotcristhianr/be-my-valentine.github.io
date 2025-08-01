@@ -1,4 +1,4 @@
-# ¿Quieres ser mi Valentine? 💌
+# Invitación VIERNES 15 💌
 
 Este proyecto es una página web interactiva para pedirle a alguien que sea tu Valentine. Por favor, usa este código como inspiración y evita simplemente copiarlo sin entender o dar créditos.
 
